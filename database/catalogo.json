@@ -1,0 +1,50 @@
+[ 
+    {
+        "codigo": 1, 
+        "titulo": "a espera de um milagre",
+        "duracao": 3.09,
+        "atores": ["Tom Hanks", "Michael Clarke"], 
+        "lancamento": 1998,
+        "emCartaz": false
+       
+
+    }, 
+    {
+        "codigo": 2,
+        "titulo": "um sonho de liberdade",
+        "duracao": 2.22,
+        "atores": ["Morgan Freeman", "Tim Robbins"],
+        "lancamento": 1994,
+        "emCartaz": false
+
+    }, 
+    {
+        "codigo": 3,
+        "titulo": "batman",
+        "duracao": 1.56,
+        "atores": ["Robert Pattison", "Zoe Kravitz"],
+        "lancamento": 2022,
+        "emCartaz": true
+
+    },
+
+    {
+        "codigo": 4,
+        "titulo": "auto da compacedida",
+        "duracao": 1.30,
+        "atores": ["a1", "a2"],
+        "lancamento": 2022,
+        "emCartaz": true
+
+    },
+    
+    {
+        "codigo": 5,
+        "titulo": "filme 5",
+        "duracao": 1.45,
+        "atores": ["a3", "a4"],
+        "lancamento": 2022,
+        "emCartaz": true
+
+    }
+]
